@@ -7,6 +7,6 @@ This will ONLY download the images and transfer them across to your new site and
 * run import! 
 * magic!!! 
 
-![Shia doing the magic](https://tenor.com/uyuI.gif)
+![Shia doing the magic](https://i.imgur.com/WCIDZ5q.gif)
 
 P.S This is not supported don't ask me :) 
