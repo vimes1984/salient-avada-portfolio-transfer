@@ -1,4 +1,4 @@
-# Slaient to Avada
+# Salient portfolio images to Avada portfolio images
 This is meant to be used with WP all import / Export
 This will ONLY download the images and transfer them across to your new site and place them in the avada images gallery :) 
 * Export the portfolio items as bundle from your salient site 
